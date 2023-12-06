@@ -120,6 +120,7 @@ function App() {
 
       </section>
 
+
       <div className="area-model">
         <h1>ITEM 3</h1>
       </div>
